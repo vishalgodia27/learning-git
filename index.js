@@ -2,4 +2,8 @@
     this is the new file 
 
 </h2>
-const arr={}
+const arr={name:"vishal",
+    age:"22",
+    city:"gwalior",
+    
+}
