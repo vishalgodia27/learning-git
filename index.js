@@ -5,5 +5,6 @@
 const arr={name:"vishal",
     age:"22",
     city:"gwalior",
+    staus:"good"
     
 }
